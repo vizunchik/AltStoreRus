@@ -1,0 +1,19 @@
+{
+      "name": "Spotify++",
+      "bundleIdentifier": "com.julioverne.Spotify++",
+      "developerName": "julioverne",
+      "subtitle": "Spotify with free premium.",
+      "version": "8.5.7",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/brbrbr/Spotify.ipa",
+      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
+      "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
+      "tintColor": "1ed760",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/Spotify++/assets/image0.png",
+				"https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
+				"https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
+      ]
+    },
