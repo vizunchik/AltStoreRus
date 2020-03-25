@@ -3,7 +3,7 @@
   "identifier": "com.bmth.city.Demo",
   "apps": [
     {
-      "name": "Spotify++ Music and Podcasts",
+      "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
       "subtitle": "Spotify with free premium.",
@@ -38,10 +38,9 @@
       "tintColor": "FF4500",
       "size": 62287760,
       "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+        "https://i.imgur.com/hQDBkcn.jpg",
+	"https://i.imgur.com/sXWyhUO.jpg",
+	"https://i.imgur.com/UA5IKKv.jpg"
       ]
     },
     { 
@@ -109,7 +108,7 @@
   ],
   "news": [
     {
-      "title": "Spotify++ now on AltStore!",
+      "title": "Spotify++\nnow on AltStore!",
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
       "tintColor": "2E8B57",
@@ -141,7 +140,7 @@
     {
       "title": "Unfold++ — Story Templates",
       "identifier": "Unfold++-available-now",
-      "caption": "Create beautiful and engaging stories from minimal and elegant templates",
+      "caption": "Create beautiful and engaging\nstories from minimal and elegant templates",
       "tintColor": "b9cee4",
       "imageURL": "https://i1.wp.com/www.appsmedian.com/wp-content/uploads/2019/01/descargar-unfold-create-stories-1.jpg",
       "appID": "com.lightricks.Enlight-Video",
