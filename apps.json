@@ -13,12 +13,15 @@
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Spotify%2B%2B+v8.5.7_v1.0.ipa",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
-      "tintColor": "006400",
+      "tintColor": "228B22",
       "size": 62287760,
       "screenshotURLs": [
-        "https://tutuapp-apk.org/wp-content/uploads/2019/03/448c67fa-3f81-4d84-9d31-c999ea2eb582-473x1024.jpg",
-	"https://i.imgur.com/X7mnsRo.jpg",
-	"https://i.imgur.com/7XZ5kdd.jpg"
+        "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
+	"https://trashbox.ru/ifiles/1171549_cc26fc_screenshot_00.png-orig/spotify-android-6.jpg",
+	"https://trashbox.ru/ifiles/1171550_7512f4_screenshot_01.png-orig/spotify-android-7.jpg",
+	"https://trashbox.ru/ifiles/1171551_b8bb29_screenshot_02.png-orig/spotify-android-8.jpg",
+	"https://trashbox.ru/ifiles/1171552_c13b7c_screenshot_03.png-orig/spotify-android-9.jpg",
+	"https://trashbox.ru/ifiles/1171553_0d4646_screenshot_04.png-orig/spotify-android-10.jpg"
       ]
     },
     { 
@@ -65,7 +68,7 @@
       "name": "Unfold++",
       "bundleIdentifier": "com.lightricks.Enlight-Video",
       "developerName": "syto203",
-      "subtitle": "Unfold++ (32/64-bit)",
+      "subtitle": "Unfold — Stories Editor & Collage Maker",
       "version": "4.12.3",
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
@@ -136,9 +139,9 @@
       "notify": false
     },
     {
-      "title": "Unfold++ joins PandStore!",
+      "title": "Unfold++ — Story Templates",
       "identifier": "Unfold++-available-now",
-      "caption": "Unfold++, available for free.",
+      "caption": "Unfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates",
       "tintColor": "b9cee4",
       "imageURL": "https://i1.wp.com/www.appsmedian.com/wp-content/uploads/2019/01/descargar-unfold-create-stories-1.jpg",
       "appID": "com.lightricks.Enlight-Video",
