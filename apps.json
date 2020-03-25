@@ -3,17 +3,17 @@
   "identifier": "com.bmth.city.Demo",
   "apps": [
     {
-      "name": "Spotify++",
+      "name": "Spotify++ Music and Podcasts",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
-      "subtitle": "Spotify with free premium. HA",
+      "subtitle": "Spotify with free premium.",
       "version": "8.5.7",
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Spotify%2B%2B+v8.5.7_v1.0.ipa",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
-      "tintColor": "228B22",
+      "tintColor": "32CD32",
       "size": 62287760,
       "screenshotURLs": [
         "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
@@ -35,7 +35,7 @@
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/IG+123+%2B+Rocket+3.6.8.ipa",
       "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
       "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
-      "tintColor": "8A2BE2",
+      "tintColor": "FF4500",
       "size": 62287760,
       "screenshotURLs": [
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
@@ -73,7 +73,7 @@
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/UnfoldPP-4.12.3-1.0-UNIV-syto203-ios12.ipa",
-      "localizedDescription": "\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
+      "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
       "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
       "tintColor": "95b5d6",
       "size": 62287760,
@@ -109,7 +109,7 @@
   ],
   "news": [
     {
-      "title": "Spotify++ joins PandStore!",
+      "title": "Spotify++ now on AltStore!",
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
       "tintColor": "2E8B57",
@@ -119,9 +119,9 @@
       "notify": false
     },
     {
-      "title": "Instagram++ joins PandStore!",
+      "title": "Rocket for Instagram++",
       "identifier": "Instagram++-available-now",
-      "caption": "Instagram++, available for free.",
+      "caption": "Instagram++ | RU | NoAds.",
       "tintColor": "BA55D3",
       "imageURL": "https://www.imentality.com/wp-content/uploads/2017/11/Instagram-download-iOS-11.jpg",
       "appID": "com.instagram.apprefresh",
@@ -129,9 +129,9 @@
       "notify": false
     },
     {
-      "title": "YouTube++ joins PandStore!",
+      "title": "Cercube 5 for YouTube++",
       "identifier": "YouTube++-available-now",
-      "caption": "YouTube++, available for free.",
+      "caption": "YouTube++ | RU | NoAds.",
       "tintColor": "FF4500",
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
@@ -141,7 +141,7 @@
     {
       "title": "Unfold++ — Story Templates",
       "identifier": "Unfold++-available-now",
-      "caption": "Unfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates",
+      "caption": "Create beautiful and engaging stories from minimal and elegant templates",
       "tintColor": "b9cee4",
       "imageURL": "https://i1.wp.com/www.appsmedian.com/wp-content/uploads/2019/01/descargar-unfold-create-stories-1.jpg",
       "appID": "com.lightricks.Enlight-Video",
