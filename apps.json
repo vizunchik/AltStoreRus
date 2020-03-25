@@ -69,17 +69,17 @@
       "name": "Unfold++",
       "bundleIdentifier": "com.lightricks.Enlight-Video",
       "developerName": "syto203",
-      "subtitle": "YouTube 15.08.4 | Cercube 5.1.9 | RU | No Ads",
+      "subtitle": "Unfold++ (32/64-bit)",
       "version": "4.12.3",
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/UnfoldPP-4.12.3-1.0-UNIV-syto203-ios12.ipa",
-      "localizedDescription": "\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2",
+      "localizedDescription": "\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
       "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
       "tintColor": "FF4500",
       "size": 62287760,
       "screenshotURLs": [
-        "https://lh3.googleusercontent.com/qCvm1vCw5ithcVjKNv_eO8TUE2OEPOJg5XVZdXOUCyD6yuh2P4RmJoPscIHQtVJFJR4=w1920-h964-rw",
+        "https://https://image.winudf.com/v2/image1/Y29tLm1vb25sYWIudW5mb2xkX3NjcmVlbl8wXzE1NzEzNTY0NDBfMDky/screen-0.jpg",
 	"https://i.imgur.com/W2j590N.png",
 	"https://i.imgur.com/yRje2so.png"
       ]
@@ -139,7 +139,7 @@
       "identifier": "Unfold++-available-now",
       "caption": "Unfold++, available for free.",
       "tintColor": "FF4500",
-      "imageURL": "https://modapkdl.io/wp-content/uploads/2020/02/Unfold-Premium-download.jpg",
+      "imageURL": "https://i.ytimg.com/vi/XZHST8tYFRA/maxresdefault.jpg",
       "appID": "com.lightricks.Enlight-Video",
       "date": "2020-03-24",
       "notify": false
