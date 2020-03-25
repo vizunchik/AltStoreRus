@@ -1,5 +1,5 @@
 {
-  "name": "Panda App",
+  "name": "Panda App Ru++",
   "identifier": "com.bmth.city.Demo",
   "apps": [
     {
@@ -13,16 +13,12 @@
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Spotify%2B%2B+v8.5.7_v1.0.ipa",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
-      "tintColor": "1ed760",
+      "tintColor": "006400",
       "size": 62287760,
       "screenshotURLs": [
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/32/5c/be325cb5-d1bc-5bee-6e06-b6d7cf5863f0/mzl.nshlthpl.png/230x0w.png",
-	"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/34/bc/7c34bc09-74d1-0088-dbae-1bd000879fc8/mzl.abblbown.png/230x0w.png",
-	      "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/5a/84/975a84f2-dde6-b93a-27c7-327f591263b1/mzl.eyavsafn.png/230x0w.png",
-	      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/0c/2e/b10c2e99-ca67-714b-4fbd-4a3c07366cec/mzl.twsogwlb.png/230x0w.png",
-	      "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/a7/d3/e3a7d353-27b6-58bb-0c1d-c25cb93410e1/mzl.mmprbgfd.png/230x0w.png",
-	      "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/25/d8/a7/25d8a796-36ef-dac0-1fbc-7c1034fb26fb/mzl.qwyhpwcg.png/230x0w.png",
-	"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/97/a3/5497a34c-c14c-72ec-0adc-b960691201c6/mzl.lrrcpbyr.png/230x0w.png"
+        "https://tutuapp-apk.org/wp-content/uploads/2019/03/448c67fa-3f81-4d84-9d31-c999ea2eb582-473x1024.jpg",
+	"https://i.imgur.com/X7mnsRo.jpg",
+	"https://i.imgur.com/7XZ5kdd.jpg"
       ]
     },
     { 
