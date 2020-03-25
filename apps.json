@@ -1,4 +1,9 @@
 {
+  "name": "jbrepo",
+  "identifier": "com.bradyhickey.jbrepo",
+  "sourceURL": "https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json",
+  "apps": [
+    {
       "name": "Spotify++",
       "bundleIdentifier": "com.julioverne.Spotify++",
       "developerName": "julioverne",
