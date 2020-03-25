@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Spotify++",
-      "bundleIdentifier": "com.julioverne.Spotify++",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
       "subtitle": "Spotify with free premium.",
       "version": "8.5.7",
