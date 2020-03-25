@@ -56,7 +56,7 @@
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/YT+15.08.4+Cercube+5.1.9.ipa",
       "localizedDescription": "The official YouTube app is a great client but it lacks several key features that most YouTube users want like video downloads, customizable playback quality, no video ads and much more.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
-      "tintColor": "1ed760",
+      "tintColor": "FF4500",
       "size": 62287760,
       "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000161-iphone-0.png",
@@ -91,7 +91,7 @@
       "title": "YouTube++ joins PandStore!",
       "identifier": "YouTube++-available-now",
       "caption": "YouTube++, available for free.",
-      "tintColor": "270202",
+      "tintColor": "FF4500",
       "imageURL": "https://i1.wp.com/roonby.com/wp-content/uploads/2020/01/321312312.png",
       "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
