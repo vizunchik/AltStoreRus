@@ -1,7 +1,6 @@
 {
-  "name": "AltStore Demo Source2",
-  "identifier": "com.bmthcity.AltStoreRus.Demo",
-  "sourceURL": "https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json",
+  "name": "Panda App",
+  "identifier": "com.bmth.city.Demo",
   "apps": [
     {
       "name": "Spotify++",
@@ -21,6 +20,21 @@
 				"https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
 				"https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
       ]
-    },
+    }
+  ],
+  "news": [
+    {
+      "title": "Spotify++ joins PandStore!",
+      "identifier": "spotify++-available-now",
+      "caption": "Premium spotify, available for free.",
+      "tintColor": "1ed760",
+      "imageURL": "https://quarksources.imfast.io/files/Spotify++/assets/news.png",
+      "appID": "com.spotify.client",
+      "date": "2020-03-24",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
   }
 }
