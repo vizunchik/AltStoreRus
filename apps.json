@@ -24,6 +24,26 @@
 	      "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/25/d8/a7/25d8a796-36ef-dac0-1fbc-7c1034fb26fb/mzl.qwyhpwcg.png/230x0w.png",
 	"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/97/a3/5497a34c-c14c-72ec-0adc-b960691201c6/mzl.lrrcpbyr.png/230x0w.png"
       ]
+    },
+    { 
+      "name": "Instagram++",
+      "bundleIdentifier": "com.instagram.apprefresh",
+      "developerName": "Rocket",
+      "subtitle": "Instagram with free premium.",
+      "version": "130.0 | 3.6.11",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Spotify%2B%2B+v8.5.7_v1.0.ipa",
+      "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
+      "iconURL": "https://mignews.com/aimages/08_19/170819_131703_27236_2.jpg",
+      "tintColor": "1ed760",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ]
     }
   ],
   "news": [
@@ -34,6 +54,16 @@
       "tintColor": "1ed760",
       "imageURL": "https://iostechgeeks.com/wp-content/uploads/2019/11/Spotify-plus.jpg",
       "appID": "com.spotify.client",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "Instagram++ joins PandStore!",
+      "identifier": "Instagram++-available-now",
+      "caption": "Instagram++, available for free.",
+      "tintColor": "1ed760",
+      "imageURL": "https://1reddrop.com/wp-content/uploads/2017/07/Instagram-rocket.jpg",
+      "appID": "com.instagram.apprefresh",
       "date": "2020-03-24",
       "notify": false
     }
