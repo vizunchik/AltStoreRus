@@ -55,7 +55,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/YT+15.08.4+Cercube+5.1.9.ipa",
       "localizedDescription": "The official YouTube app is a great client but it lacks several key features that most YouTube users want like video downloads, customizable playback quality, no video ads and much more.",
-      "iconURL": "https://www.kindpng.com/picc/m/11-114834_youtube-transparent-icon-circle-logos-png-youtube-transparent.png",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
       "tintColor": "1ed760",
       "size": 62287760,
       "screenshotURLs": [
@@ -72,7 +72,7 @@
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
       "tintColor": "1ed760",
-      "imageURL": "https://iostechgeeks.com/wp-content/uploads/2019/11/Spotify-plus.jpg",
+      "imageURL": "https://techlacarte.com/wp-content/uploads/2019/07/Get-Spotify-Premium-for-Free.jpg",
       "appID": "com.spotify.client",
       "date": "2020-03-24",
       "notify": false
