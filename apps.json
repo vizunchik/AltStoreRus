@@ -114,6 +114,15 @@
       "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
       "notify": false
+{
+			"title": "unc0ver out now!",
+			"identifier": "uncover-available-download",
+			"caption": "The most advanced jailbreak tool yet. Tap to download.",
+			"tintColor": "101216",
+			"imageURL": "https://quarksources.imfast.io/files/unc0ver/assets/news.png",
+			"appID": "science.xnu.undecimus",
+			"date": "2020-02-09",
+			"notify": false
     }
   ],
   "userInfo": {
