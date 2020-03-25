@@ -44,6 +44,26 @@
 	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
 	"https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
       ]
+    },
+    { 
+      "name": "YouTube++",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Cercube 5",
+      "subtitle": "YouTube 15.08.4 | Cercube 5.1.9 | RU | No Ads",
+      "version": "15.08.4 | 5.1.9",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/YT+15.08.4+Cercube+5.1.9.ipa",
+      "localizedDescription": "The official YouTube app is a great client but it lacks several key features that most YouTube users want like video downloads, customizable playback quality, no video ads and much more.",
+      "iconURL": "https://www.kindpng.com/picc/m/11-114834_youtube-transparent-icon-circle-logos-png-youtube-transparent.png",
+      "tintColor": "1ed760",
+      "size": 62287760,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000161-iphone-0.png",
+	"https://static.appdb.to/images/cydia-1900000161-iphone-1.png",
+	"https://static.appdb.to/images/cydia-1900000161-iphone-2.png",
+	"https://static.appdb.to/images/cydia-1900000161-iphone-3.png"
+      ]
     }
   ],
   "news": [
@@ -64,6 +84,16 @@
       "tintColor": "1ed760",
       "imageURL": "https://www.pandahelp.vip/blog/content/images/2018/11/instagram-plus.jpg",
       "appID": "com.instagram.apprefresh",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "YouTube++ joins PandStore!",
+      "identifier": "YouTube++-available-now",
+      "caption": "YouTube++, available for free.",
+      "tintColor": "1ed760",
+      "imageURL": "https://ibb.co/bvsdPXp",
+      "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
       "notify": false
     }
