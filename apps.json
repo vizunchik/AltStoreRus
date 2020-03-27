@@ -202,7 +202,7 @@
       "caption": "Enabled Premium Features And VPN.",
       "tintColor": "9932CC",
       "imageURL": "https://cdn.forbot.pl/blog/wp-content/uploads/2018/12/tor_komputer_laptop.png",
-      "appID": "com.rileytestut.Delta",
+      "appID": "pironlabs.torbrowser.syto203",
       "date": "2019-09-28",
       "notify": false
     },
