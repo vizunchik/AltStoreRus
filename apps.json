@@ -64,6 +64,26 @@
       ]
     },
     {
+      "name": "OrNET++",
+      "bundleIdentifier": "pironlabs.torbrowser.syto203",
+      "developerName": "syto203",
+      "subtitle": "Enabled Premium Features And VPN.",
+      "version": "1.2.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Updated to OrNet v1.2.3",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/OrNetPP-1.2.3-1.0-UNIV-syto203-iOS13.ipa",
+      "localizedDescription": "OrNET Browser is the best FREE app featuring a high performance TOR powered browser. OrNET Browser has been engineered on the latest technology of tor network which has been designed for faster and more secure access to Tor network.",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/1a/ca/c5/1acac5e5-595b-fba0-996b-f9ad44b8d546/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+      "tintColor": "9932CC",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/81/4c/5d/814c5d25-32fc-23ae-6b62-459a1f701300/mzl.nbkmiyfl.png/1000x1000bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/74/cf/c874cf74-fe65-a2f2-d5a9-cedc8c467910/mzl.qfrgjcac.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/36/39/a7363932-72b0-c705-07d5-f62d5836bbab/mzl.rxjexcfj.png/1000x1000bb.png"
+      ]
+    },
+    {
       "name": "Unfold++",
       "bundleIdentifier": "com.lightricks.Enlight-Video",
       "developerName": "syto203",
@@ -174,6 +194,16 @@
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "OrNET - Private Onion Browser",
+      "identifier": "tor-now-available",
+      "caption": "Enabled Premium Features And VPN.",
+      "tintColor": "9932CC",
+      "imageURL": "https://cdn.forbot.pl/blog/wp-content/uploads/2018/12/tor_komputer_laptop.png",
+      "appID": "com.rileytestut.Delta",
+      "date": "2019-09-28",
       "notify": false
     },
     {
