@@ -64,6 +64,27 @@
       ]
     },
     {
+      "name": "VK++",
+      "bundleIdentifier": "com.vk.vkclient.vkm.refresh",
+      "developerName": "md.furman",
+      "subtitle": "Много функций может не работать, твик давно не обновляли.",
+      "version": "5.31.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "— Много функций может не работать, твик давно не обновляли. Обновление до актуальной версии по просьбе желающих.",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/VK+5.31.2+VK%2B%2B+0.32b+CVK.ipa",
+      "localizedDescription": "Клиент VK с новым твиком VK++ с огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы, возможностью изменять цвета и ставить фотографии в меню и диалогах и многим другим.\n\nP.S. Много функций может не работать, твик давно не обновляли. Обновление до актуальной версии по просьбе желающих.",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/e2/c2/6de2c27c-4c36-0d0d-1845-56b7e58522b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+      "tintColor": "1E90FF",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000645-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000645-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000645-iphone-2.png",
+        "https://static.appdb.to/images/cydia-1900000645-iphone-3.png"
+      ]
+    },
+    {
       "name": "OrNET++",
       "bundleIdentifier": "pironlabs.torbrowser.syto203",
       "developerName": "syto203",
@@ -194,6 +215,16 @@
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "VK — social network",
+      "identifier": "VK++-now-available",
+      "caption": "VK++ с огромным количеством дополнительных настроек.",
+      "tintColor": "1E90FF",
+      "imageURL": "https://look.com.ua/pic/201705/1920x1080/look.com.ua-213887.jpg",
+      "appID": "com.vk.vkclient.vkm.refresh",
+      "date": "2019-09-28",
       "notify": false
     },
     {
