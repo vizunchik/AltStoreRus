@@ -74,7 +74,7 @@
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/OrNetPP-1.2.3-1.0-UNIV-syto203-iOS13.ipa",
       "localizedDescription": "OrNET Browser is the best FREE app featuring a high performance TOR powered browser. OrNET Browser has been engineered on the latest technology of tor network which has been designed for faster and more secure access to Tor network.",
       "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/1a/ca/c5/1acac5e5-595b-fba0-996b-f9ad44b8d546/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
-      "tintColor": "9932CC",
+      "tintColor": "9370DB",
       "size": 2184796,
       "beta": false,
       "screenshotURLs": [
@@ -200,7 +200,7 @@
       "title": "OrNET - Private Onion Browser",
       "identifier": "tor-now-available",
       "caption": "Enabled Premium Features And VPN.",
-      "tintColor": "9932CC",
+      "tintColor": "9370DB",
       "imageURL": "https://cdn.forbot.pl/blog/wp-content/uploads/2018/12/tor_komputer_laptop.png",
       "appID": "pironlabs.torbrowser.syto203",
       "date": "2019-09-28",
