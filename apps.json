@@ -153,6 +153,29 @@
       ]
     },
     {
+      "name": "Twitch++",
+      "bundleIdentifier": "com.apple.compilers.llvm.clang.1_0",
+      "developerName": "SarahH12099",
+      "subtitle": "No Video Ads On Twitch",
+      "version": "8.1.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "- Updated to Version: 8.1.1",
+      "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Twitch_v.8.1.1_SarahH12099_uploadedBy_ipabnb.ipa",
+      "localizedDescription": "Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.\n\nCatch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.",
+      "iconURL": "https://lh3.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg",
+      "tintColor": "4169E1",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/df/09/fbdf09bc-dc58-d2e9-089b-ac83b2d17961/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/e9/28/9ee92814-5417-7f9d-3cae-4eaaf9dad6c2/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/02/20/99/02209952-b991-b581-8b5a-d0014400d2b0/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/37/8a/f8/378af812-08ff-626a-0e62-a8e5888be913/pr_source.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/28/fa/ef28fab9-b3b9-c536-3be1-4be65d4cb7fb/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/e9/bc/d1e9bc3d-7e0e-3f7b-8c6a-4b6f8a656e07/pr_source.png/1000x1000bb.png"
+      ]
+    },
+    {
       "name": "Chimera",
       "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "Electra Team",
@@ -251,6 +274,16 @@
       "appID": "com.vk.vkclient.vkm.refresh",
       "date": "2020-03-28",
       "beta": true
+    },
+    {
+      "title": "Twitch — Live Game Streaming",
+      "identifier": "Reddit++-now-available",
+      "caption": "No Video Ads On Twitch",
+      "tintColor": "4169E1",
+      "imageURL": "https://s.yimg.com/uu/api/res/1.2/hNJgLYS_RIS4ykujpe3ZJg--~B/aD0xNjAwO3c9MjQwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b3c38cc0211f0f102acf11636de1add4",
+      "appID": "com.apple.compilers.llvm.clang.1_0",
+      "date": "2020-03-24",
+      "notify": false
     },
     {
       "title": "Reddit++\nnow on AltStore!",
