@@ -237,7 +237,7 @@
       "tintColor": "9370DB",
       "imageURL": "https://miro.medium.com/max/3840/1*TAWZrQWAMZLDrlZ35nomhw.jpeg",
       "appID": "pironlabs.torbrowser.syto203",
-      "date": "2019-09-28",
+      "date": "2020-03-27",
       "notify": false
     },
     {
@@ -275,7 +275,7 @@
       "identifier": "uncover-available-download",
       "caption": "The most advanced jailbreak tool yet. Tap to download.",
       "tintColor": "101216",
-      "imageURL": "https://quarksources.imfast.io/files/unc0ver/assets/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/unc0ver/news.png",
       "appID": "science.xnu.undecimus",
       "date": "2020-02-09",
       "notify": false
