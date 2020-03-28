@@ -91,7 +91,7 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "syto203",
       "subtitle": "Find your community",
-      "version": "2020.10.1-0.4",
+      "version": "2020.10.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "• Minor fixes and improvements\nPreviously in 2020.10.0\n• Design Update: Now you’ll see a loading spinner at the bottom of the Communities tab until all the communities and content have been fetched.\n• Bug Fix: Returning to RPAN after visiting a community won’t freeze the app anymore.\n• Minor fixes and improvements—In an effort to be more transparent, we’ll admit that we only put this here in case we forgot something",
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Reddit_syto203.ipa",
