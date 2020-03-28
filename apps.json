@@ -141,7 +141,7 @@
       "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
       "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible..",
       "iconURL": "https://i.imgur.com/cF9hdzv.png",
-      "tintColor": "dcf3f9",
+      "tintColor": "C0C0C0",
       "size": 91350280,
       "screenshotURLs": [
 		"https://quarksources.imfast.io/files/Chimera/assets/image0.png",
