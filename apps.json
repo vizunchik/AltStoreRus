@@ -76,7 +76,7 @@
       "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/e2/c2/6de2c27c-4c36-0d0d-1845-56b7e58522b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
       "tintColor": "1E90FF",
       "size": 2184796,
-      "beta": false,
+      "beta": true,
       "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000645-iphone-0.png",
         "https://static.appdb.to/images/cydia-1900000645-iphone-1.png",
@@ -225,7 +225,7 @@
       "imageURL": "https://look.com.ua/pic/201705/1920x1080/look.com.ua-213887.jpg",
       "appID": "com.vk.vkclient.vkm.refresh",
       "date": "2020-03-28",
-      "beta": false
+      "notify": false
     },
     {
       "title": "OrNET - Private Onion Browser",
