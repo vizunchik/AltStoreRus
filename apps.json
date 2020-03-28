@@ -12,7 +12,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/AltStoreRus/Spotify%2B%2B+v8.5.7_v1.0.ipa",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
-      "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
+      "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
       "tintColor": "32CD32",
       "size": 62287760,
       "screenshotURLs": [
@@ -144,9 +144,9 @@
       "tintColor": "C0C0C0",
       "size": 91350280,
       "screenshotURLs": [
-		"https://quarksources.imfast.io/files/Chimera/assets/image0.png",
-		"https://quarksources.imfast.io/files/Chimera/assets/image1.png",
-		"https://quarksources.imfast.io/files/Chimera/assets/image2.png"
+		"https://quarklibrary.imfast.io/Chimera/image0.png",
+		"https://quarklibrary.imfast.io/Chimera/image1.png",
+		"https://quarklibrary.imfast.io/Chimera/image2.png"
       ]
     },
     {
@@ -163,10 +163,10 @@
       "tintColor": "e32b3c",
       "size": 20132659,
       "screenshotURLs": [
-        "https://quarksources.imfast.io/files/iTorrent/assets/image0.png",
-        "https://quarksources.imfast.io/files/iTorrent/assets/image1.png",
-        "https://quarksources.imfast.io/files/iTorrent/assets/image2.png",
-		"https://quarksources.imfast.io/files/iTorrent/assets/image3.png"
+        "https://quarklibrary.imfast.io/iTorrent/image0.png",
+        "https://quarksources.imfast.io/iTorrent/image1.png",
+        "https://quarklibrary.imfast.io/iTorrent/image2.png",
+		"https://quarklibrary.imfast.io/iTorrent/image3.png"
       ]
     },
     {
@@ -183,8 +183,9 @@
 	  "tintColor": "101216",
 	  "size": 35483648,
 	  "screenshotURLs": [
-	        "https://quarksources.imfast.io/files/unc0ver/assets/image0.png",
-		"https://quarksources.imfast.io/files/unc0ver/assets/image1.png"
+	        "https://quarklibrary.imfast.io/unc0ver/image0.png",
+		"https://quarklibrary.imfast.io/unc0ver/image1.png",
+		"https://quarklibrary.imfast.io/unc0ver/image2.png"
       ]
     }
   ],
