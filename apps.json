@@ -225,7 +225,7 @@
       "imageURL": "https://look.com.ua/pic/201705/1920x1080/look.com.ua-213887.jpg",
       "appID": "com.vk.vkclient.vkm.refresh",
       "date": "2020-03-28",
-      "notify": false
+      "beta": true
     },
     {
       "title": "OrNET - Private Onion Browser",
