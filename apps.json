@@ -66,8 +66,8 @@
     {
       "name": "VK++",
       "bundleIdentifier": "com.vk.vkclient.vkm.refresh",
-      "developerName": "md.furman",
-      "subtitle": "VK 5.29 | VK++ 0.32b | ColoredVK",
+      "developerName": "VK App",
+      "subtitle": "VK 5.31.2 | VK++ 0.32b | ColoredVK",
       "version": "5.31.2",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "",
@@ -225,7 +225,7 @@
       "imageURL": "https://look.com.ua/pic/201705/1920x1080/look.com.ua-213887.jpg",
       "appID": "com.vk.vkclient.vkm.refresh",
       "date": "2020-03-28",
-      "notify": false
+      "beta": false
     },
     {
       "title": "OrNET - Private Onion Browser",
