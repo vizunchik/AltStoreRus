@@ -326,6 +326,16 @@
       "notify": false
     },
     {
+      "title": "Reddit++\nnow on AltStore!",
+      "identifier": "Reddit++-now-available",
+      "caption": "Find your community",
+      "tintColor": "FF7F50",
+      "imageURL": "https://ours.agency/wp-content/uploads/2019/04/Reddit.png",
+      "appID": "com.reddit.Reddit",
+      "date": "2020-03-23",
+      "notify": false
+    },
+    {
       "title": "unc0ver out now!",
       "identifier": "uncover-available-download",
       "caption": "The most advanced jailbreak tool yet. Tap to download.",
