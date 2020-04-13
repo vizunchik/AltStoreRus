@@ -91,10 +91,10 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "syto203",
       "subtitle": "Find your community",
-      "version": "2020.10.1",
-      "versionDate": "2020-03-24T14:00:00-08:00",
+      "version": "2020.12.1",
+      "versionDate": "2020-04-13T14:00:00-08:00",
       "versionDescription": "• Minor fixes and improvements\nPreviously in 2020.10.0\n• Design Update: Now you’ll see a loading spinner at the bottom of the Communities tab until all the communities and content have been fetched.\n• Bug Fix: Returning to RPAN after visiting a community won’t freeze the app anymore.\n• Minor fixes and improvements—In an effort to be more transparent, we’ll admit that we only put this here in case we forgot something",
-      "downloadURL": "https://www.dropbox.com/s/mjgd95fag112fjm/Reddit_syto203.ipa?dl=1",
+      "downloadURL": "https://www.dropbox.com/s/1ckny664revdmwd/Reddit-2020.12.0-0.4-x64-syto203-iOS13.ipa?dl=1",
       "localizedDescription": "This tweaked version allows the user to view deleted posts retrieved by pushshift.io. and removes Ads.",
       "iconURL": "https://www.marnet.ru/wp-content/uploads/2018/05/Reddit.png",
       "tintColor": "FF6347",
@@ -332,7 +332,7 @@
       "tintColor": "FF7F50",
       "imageURL": "https://ours.agency/wp-content/uploads/2019/04/Reddit.png",
       "appID": "com.reddit.Reddit",
-      "date": "2020-03-23",
+      "date": "2020-04-13",
       "notify": false
     },
     {
