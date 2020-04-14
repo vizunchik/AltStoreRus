@@ -236,6 +236,16 @@
   ],
   "news": [
     {
+      "title": "Everything works, download now!",
+      "identifier": "Panda++-available-now",
+      "caption": "The problem is solved and all IPAS are working",
+      "tintColor": "8A28F7",
+      "imageURL": "https://www.defensivedriving.com/wp-content/uploads/2018/11/available_now_blog11272018-png.png",
+      "appID": "com.bmth.city.Demo",
+      "date": "2020-04-14",
+      "notify": false
+    },
+    {
       "title": "Spotify++\nnow on AltStore!",
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
