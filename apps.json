@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "InShot",
+      "name": "InShot++",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "InstaShot Inc.",
       "subtitle": "InShot - Handy, Comprehensive and Fun!",
@@ -282,7 +282,7 @@
       "identifier": "InShot++-now-available",
       "caption": "InShot - Video Editor",
       "tintColor": "CD5C5C",
-      "imageURL": "https://media.tcdn.co/fc3c20cea194c4c4d005e350559dbe84/04251ea01a41cf0200d97a74bf3f7167a7.jpg",
+      "imageURL": "https://i.ytimg.com/vi/kOrnvBr-tm0/maxresdefault.jpg",
       "appID": "com.camerasideas.InstaShot",
       "date": "2020-04-13",
       "notify": false
