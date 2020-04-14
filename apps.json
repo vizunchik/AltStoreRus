@@ -87,6 +87,24 @@
       ]
     },
     {
+      "name": "Mini Metro",
+      "bundleIdentifier": "com.apple.compilers.llvm.clang.2_0",
+      "developerName": "Dinosaur Polo Club",
+      "subtitle": "Build a better subway",
+      "version": "1.41",
+      "versionDate": "2019-20-11T14:30:00-07:00",
+      "versionDescription": "Mini Metro is now stopping at Barcelona! Carefully manage your train lines to keep this Mediterranean metropolis moving.",
+      "downloadURL": "https://www.dropbox.com/s/wa1ecornho7abse/minimetro_2.41.0_telefonbuch%201116.ipa?dl=1",
+      "localizedDescription": "Mini Metro, the sublime subway simulator, now on iPhone and iPad.\n\n\n• Included in the App Store Best of 2016\n• Mac Game of the Year in over 30 countries\n• BAFTA-nominated\n• IGF award-winning\n• IGN Mobile Game of the Year nominee\n• Included in Gamespot's Best Mobile Games of 2016",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/67/7c/cb677c82-d048-ed44-a13a-a5fdb22f1b08/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/1024x1024.jpg",
+      "tintColor": "FFE4E1",
+      "size": 132379023,
+      "screenshotURLs": [
+        "https://images-na.ssl-images-amazon.com/images/I/71M2LPAJWSL.png",
+        "https://pbs.twimg.com/media/Dz8boYtWkAIggb-.jpg"
+      ]
+    },
+    { 
       "name": "InShot++",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "InstaShot Inc.",
@@ -316,6 +334,16 @@
       "appID": "com.vk.vkclient.vkm.refresh",
       "date": "2020-03-28",
       "beta": true
+    },
+    {
+      "title": "Mini Metro",
+      "identifier": "Mini Metro-now-available",
+      "caption": "Build a better subway",
+      "tintColor": "FFE4E1",
+      "imageURL": "http://rulsmart.com/uploads/download/android-os/thumbs/1476993970_tumblr_o19yrnzefw1si6yh0o6_1280.jpg",
+      "appID": "com.apple.compilers.llvm.clang.2_0",
+      "date": "2020-04-11",
+      "notify": false
     },
     {
       "title": "Twitch — Live Game Streaming",
