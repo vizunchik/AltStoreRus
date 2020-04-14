@@ -339,8 +339,8 @@
       "title": "Mini Metro",
       "identifier": "Mini Metro-now-available",
       "caption": "Build a better subway",
-      "tintColor": "FFE4E1",
-      "imageURL": "http://rulsmart.com/uploads/download/android-os/thumbs/1476993970_tumblr_o19yrnzefw1si6yh0o6_1280.jpg",
+      "tintColor": "6A5ACD",
+      "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_MiniMetro_image1600w.jpg",
       "appID": "com.apple.compilers.l2vm.clang.1_0",
       "date": "2020-04-11",
       "notify": false
