@@ -278,7 +278,7 @@
       "notify": false
     },
     {
-      "title": "InShot++ now on AltStore!",
+      "title": "InShot++\nnow on AltStore!",
       "identifier": "InShot++-now-available",
       "caption": "InShot - Video Editor",
       "tintColor": "CD5C5C",
@@ -372,7 +372,7 @@
       "identifier": "Reddit++-now-available",
       "caption": "Find your community",
       "tintColor": "FF7F50",
-      "imageURL": "https://ours.agency/wp-content/uploads/2019/04/Reddit.png",
+      "imageURL": "https://hacktalk.net/wp-content/uploads/2018/08/reddit-combo-1920.png",
       "appID": "com.reddit.Reddit",
       "date": "2020-04-05",
       "notify": false
