@@ -88,7 +88,7 @@
     },
     {
       "name": "Mini Metro",
-      "bundleIdentifier": "com.apple.compilers.llvm.clang.2_0",
+      "bundleIdentifier": "com.apple.compilers.llvm.clang.1_0",
       "developerName": "Dinosaur Polo Club",
       "subtitle": "Build a better subway",
       "version": "1.41",
@@ -341,7 +341,7 @@
       "caption": "Build a better subway",
       "tintColor": "FFE4E1",
       "imageURL": "http://rulsmart.com/uploads/download/android-os/thumbs/1476993970_tumblr_o19yrnzefw1si6yh0o6_1280.jpg",
-      "appID": "com.apple.compilers.llvm.clang.2_0",
+      "appID": "com.apple.compilers.llvm.clang.1_0",
       "date": "2020-04-11",
       "notify": false
     },
