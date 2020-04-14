@@ -14,7 +14,7 @@
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
       "tintColor": "32CD32",
-      "size": 62287760,
+      "size": 30 445 568,
       "screenshotURLs": [
         "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
 	"https://trashbox.ru/ifiles/1171549_cc26fc_screenshot_00.png-orig/spotify-android-6.jpg",
@@ -84,6 +84,28 @@
         "https://i.imgur.com/xZMwiLZ.jpg",
         "https://i.imgur.com/tFRnZKW.jpg",
         "https://i.imgur.com/HhrWRsG.jpg"
+      ]
+    },
+    {
+      "name": "InShot",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "developerName": "InstaShot Inc.",
+      "subtitle": "InShot - Handy, Comprehensive and Fun!",
+      "version": "1.37.2",
+      "versionDate": "2020-04-05T14:00:00-08:00",
+      "versionDescription": "InShot is a functional video editor tool. You can use it to add music, text, emoji and filters to the video and share it on your Facebook, Instagram, Twitter, etc.\n\nFeatures:\n- Edit Video\nYou can not only rotate the photo and make photo collage, but also trim the video like cutting the part of it and adjust video speed as you need.\n\n- Add Sound Effects\nYou can add music or other sound effects to the videos and easily sync them with timeline.\n\n- Add Text, Emoji & Filters\nYou can add text, filters and emoji to the video or photo.\n\n- High Resolution\nPhotos and videos edited by Inshot have HD qualities.",
+      "downloadURL": "https://www.dropbox.com/s/8liwlvik8iz34im/InShot%20Hack.ipa?dl=1",
+      "localizedDescription": "This tweaked version allows the user to view deleted posts retrieved by pushshift.io. and removes Ads.",
+      "iconURL": "https://lh3.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
+      "tintColor": "CD5C5C",
+      "size": 42 371 695,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/ff/ec/f3ffec27-f77a-73db-5f2b-f64f16941a72/mzl.filprell.jpg/1000x1000bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/cb/36/3dcb3624-da8e-6258-73ce-a6147822d264/mzl.mwjysupr.jpg/1000x1000bb.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/63/5b/c8/635bc8a2-4fe8-49aa-2c0a-ec706cee91c3/mzl.tekrwvmw.jpg/1000x1000bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/b4/ae/a9/b4aea9b7-1596-7d4c-605f-f46e714ae402/mzl.wekotwui.jpg/1000x1000bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/69/cd/00/69cd0058-af74-44d3-0a46-bc29cc1e9bc2/mzl.ghcnyayz.jpg/1000x1000bb.jpg"
       ]
     },
     {
@@ -252,6 +274,16 @@
       "tintColor": "2E8B57",
       "imageURL": "https://techlacarte.com/wp-content/uploads/2019/07/Get-Spotify-Premium-for-Free.jpg",
       "appID": "com.spotify.client",
+      "date": "2020-03-28",
+      "notify": false
+    },
+    {
+      "title": "InShot++ now on AltStore!",
+      "identifier": "InShot++-now-available",
+      "caption": "InShot - Video Editor",
+      "tintColor": "CD5C5C",
+      "imageURL": "https://media.tcdn.co/fc3c20cea194c4c4d005e350559dbe84/04251ea01a41cf0200d97a74bf3f7167a7.jpg",
+      "appID": "com.camerasideas.InstaShot",
       "date": "2020-03-28",
       "notify": false
     },
