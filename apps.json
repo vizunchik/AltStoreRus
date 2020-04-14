@@ -97,7 +97,7 @@
       "downloadURL": "https://www.dropbox.com/s/wa1ecornho7abse/minimetro_2.41.0_telefonbuch%201116.ipa?dl=1",
       "localizedDescription": "Mini Metro, the sublime subway simulator, now on iPhone and iPad.\n\n\n• Included in the App Store Best of 2016\n• Mac Game of the Year in over 30 countries\n• BAFTA-nominated\n• IGF award-winning\n• IGN Mobile Game of the Year nominee\n• Included in Gamespot's Best Mobile Games of 2016",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/67/7c/cb677c82-d048-ed44-a13a-a5fdb22f1b08/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/1024x1024.jpg",
-      "tintColor": "FFE4E1",
+      "tintColor": "9370DB",
       "size": 132379023,
       "screenshotURLs": [
         "https://images-na.ssl-images-amazon.com/images/I/71M2LPAJWSL.png",
@@ -339,7 +339,7 @@
       "title": "Mini Metro",
       "identifier": "Mini Metro-now-available",
       "caption": "Build a better subway",
-      "tintColor": "EE82EE",
+      "tintColor": "9370DB",
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_MiniMetro_image1600w.jpg",
       "appID": "com.apple.compilers.l2vm.clang.1_0",
       "date": "2020-04-11",
