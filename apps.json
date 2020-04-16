@@ -150,7 +150,7 @@
     },
     {
       "name": "Spotify++",
-      "bundleIdentifier": "com.spotify2.client2",
+      "bundleIdentifier": "com.apple.spotify2",
       "developerName": "julioverne",
       "subtitle": "👇🏻 Read the description 👇🏻",
       "version": "8.5.53",
@@ -434,7 +434,7 @@
       "caption": "Flaw of only allowing shuffle play.",
       "tintColor": "23d060",
       "imageURL": "https://www.xda-developers.com/files/2019/07/spotify-lite.jpg",
-      "appID": "com.spotify2.client2",
+      "appID": "com.apple.spotify2",
       "date": "2020-04-17",
       "beta": true
     },
