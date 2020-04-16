@@ -149,6 +149,29 @@
       ]
     },
     {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client2",
+      "developerName": "julioverne",
+      "subtitle": "👇🏻 Read the description 👇🏻",
+      "version": "8.5.53",
+      "versionDate": "2020-04-17T14:30:00-07:00",
+      "versionDescription": "- Fixed stability issues.",
+      "downloadURL": "https://dl.orangedox.com/PandaApp/13?dl=1",
+      "localizedDescription": "When you try to play an album, you cannot select individual songs to play. You can only choose shuffle play. \n\nThe last fully working version is 8.5.7. Which you can download below.",
+      "iconURL": "https://lh3.googleusercontent.com/KM1vAACVoZhBSzm7OcCFfQ7Sx7QCaQzQf7C2UHOHF6CN2bOUlGqXwFD7zwrlNDHnk3ve",
+      "tintColor": "23d060",
+      "size": 48930456,
+      "beta": true,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/de/e0/4a/dee04ac9-26b3-7e4e-9827-c0fba18911f1/pr_source.png/1000x1000bb.png",
+	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/a7/ac/ffa7aca0-a1ca-6e11-b989-babb7fa76aec/pr_source.png/1000x1000bb.png",
+	"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/09/ec/b4/09ecb452-446d-b6d3-f1a8-1d6e41d41813/pr_source.png/1000x1000bb.png",
+	"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/13/88/08/138808c9-0ba8-ba9a-cbc2-860cf9dbeece/pr_source.png/1000x1000bb.png",
+	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/af/a3/a3/afa3a359-7417-d4df-0d5a-ab0eda164aa7/pr_source.png/1000x1000bb.png",
+	"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/38/75/c338754e-605b-d973-77fd-75df463af5fa/pr_source.png/1000x1000bb.png"
+      ]
+    },
+    { 
       "name": "OrNET++",
       "bundleIdentifier": "pironlabs.torbrowser.syto203",
       "developerName": "syto203",
@@ -404,6 +427,16 @@
       "appID": "com.reddit.Reddit",
       "date": "2020-04-05",
       "notify": false
+    },
+    {
+      "title": "Exclusive latest version 8.5.53!",
+      "identifier": "spotify++-available-now",
+      "caption": "Flaw of only allowing shuffle play.",
+      "tintColor": "23d060",
+      "imageURL": "https://www.xda-developers.com/files/2019/07/spotify-lite.jpg",
+      "appID": "com.spotify.client2",
+      "date": "2020-04-17",
+      "beta": true
     },
     {
       "title": "unc0ver out now!",
