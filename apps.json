@@ -108,7 +108,7 @@
     },
     { 
       "name": "Twitter++",
-      "bundleIdentifier": "com.atebits.Tweetie2",
+      "bundleIdentifier": "com.apple.compilers.llvm.clang.1_0",
       "developerName": "UnlimApps",
       "subtitle": "Get unlimited feature on Twitter",
       "version": "8.14",
@@ -420,7 +420,7 @@
       "caption": "Unlocked Pro",
       "tintColor": "CD5C5C",
       "imageURL": "https://modapkdl.io/wp-content/uploads/2019/12/InShot-Pro-download-for-Android.jpg",
-      "appID": "com.camerasideas.InstaShot",
+      "appID": "com.apple.compilers.llvm.clang.1_0",
       "date": "2020-04-03",
       "notify": false
     },
