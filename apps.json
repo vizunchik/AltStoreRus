@@ -370,6 +370,25 @@
       ]
     },
     {
+      "name": "Power Phone Clean",
+      "bundleIdentifier": "com.appybois.powerphoneclean",
+      "developerName": "Appy Bois",
+      "subtitle": "Storage Full? Clean space and memory with the tap of a button!",
+      "version": "1.0",
+      "versionDate": "2020-04-03T12:00:00-00:00",
+      "versionDescription": "Initial AltStore release!",
+      "downloadURL": "https://appybois.com/altstore/PowerPhoneClean.ipa",
+      "localizedDescription": "Clean your phone, quick and easy!\n\nApple doesn't allow cache cleaning apps, or memory boost apps, but you can have both features now, thanks to the power of AltStore.\n\nFirst, Memory Boost will reclaim some of the memory being used by apps in the background, which makes your phone more responsive.\n\nSecond, Storage Boost will reclaim some of the space being used by temporary (or cached) files of apps, which gives you more room for photos and other things!",
+      "iconURL": "https://appybois.com/altstore/powerphoneclean.jpg",
+      "tintColor": "#27ae60",
+      "size": 7924507,
+      "screenshotURLs": [
+        "https://appybois.com/altstore/screenshots/SS1.png",
+        "https://appybois.com/altstore/screenshots/SS2.png",
+        "https://appybois.com/altstore/screenshots/SS3.png"
+      ]
+    },
+    {
 	 "name": "unc0ver",
 	  "bundleIdentifier": "science.xnu.undecimus",
 	  "developerName": "Pwn20wnd & Sam Bingner",
