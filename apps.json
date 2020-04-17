@@ -445,9 +445,9 @@
       "identifier": "Deezer++-now-available",
       "caption": "Unlocked all premium features!",
       "tintColor": "000000",
-      "imageURL": "https://pixel-story.ru/wp-content/uploads/2017/11/deezer.jpg",
+      "imageURL": "https://appscloud.me/files/apps/icons/2a2921d0af072521fe47746b394cca6e.png",
       "appID": "com.deezer.Deezer",
-      "date": "2020-04-16",
+      "date": "2020-04-15",
       "notify": false
     },
     {
@@ -547,7 +547,7 @@
       "tintColor": "FF7F50",
       "imageURL": "https://hacktalk.net/wp-content/uploads/2018/08/reddit-combo-1920.png",
       "appID": "com.reddit.Reddit",
-      "date": "2020-04-14",
+      "date": "2020-04-16",
       "notify": false
     },
     {
