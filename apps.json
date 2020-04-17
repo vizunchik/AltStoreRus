@@ -107,6 +107,27 @@
       ]
     },
     { 
+      "name": "Twitter++",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "UnlimApps",
+      "subtitle": "Get unlimited feature on Twitter",
+      "version": "8.14",
+      "versionDate": "2020-04-16T14:30:00-07:00",
+      "versionDescription": "Sharing Enhancements\n• Share Links - Share links from tweets by long pressing on them to bring up the iOS share screen\n• Share Images - Share images from tweets by long pressing on them to bring up the iOS share screen\n• Tweets Sharing - Allows you to directly share the tweet outside of Twitter (long press in timeline or 3 dots).\n• GIF and Vine Share/Save - Allows you to save locally or share GIFS and Vines effectively. Access by long clicking on the GIF when it is fully open (the display view)\n• Image/Video Share/Save - Allows you to save locally or share images and videos. Access by long clicking on the Image or Video either in the timeline or the display view (when it is fully open)\n• Direct Message Share - Allows you to share messages from a direct message through the iOS share sheet.\n\nApp Integrations\n• Direct Download Youtube Videos - Download youtube videos from twitter to your phone.\n• Youtube Integration - Set Youtube links to open in Youtube app or with the Twitter built in player.\n• Instagram Links - Set Instagram links to open in Instagram app or with the Twitter built in media service.\n• Browser Integration - Set if you want links to be opened in Twitter default browser or other browser on your phone (Supported Browsers: Chrome, Opera, Dolphin, Atomic, iCab, Puffin).\n\nAdditional Enhancements\n• Image/Video Download - Download images and videos to your device to watch later.\n• Show Keyboard on Compose - Instead of being shown the media screen, have the keyboard show up on compose.\n• Automatic Long Tweet Creation - For tweets that are over 140 Chars, Twitter ++ allows you to automatically post tweet as an image or using pastebin.\n• Easier List Access - Finally start using lists to organize Twitter! List button added to the main feed back for easy access.\n• Confirm Favorite - Bring up confirmation screen when favoriting a tweet.\n• Hide Follow in Tweet - Remove the follow button on tweets.\n• Remove Status Bar - Enable full screen view for twitter by hiding the top status bar.\n• Timeline Badges - In the timeline, show verified badges for users.\n• View Blocked Profiles - Continue seeing tweets and profiles of users how have blocked you.",
+      "downloadURL": "https://dl.orangedox.com/PandaApp/15?dl=1",
+      "localizedDescription": "Updated to Twitter v8.14 T 1.2r-82\n\n- SaveDM fixed"
+      "iconURL": "https://www.uniquepac.com/images/twitter_icon.png",
+      "tintColor": "00adef",
+      "size": 78910461,
+      "screenshotURLs": [
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+      ]
+    },
+    { 
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
