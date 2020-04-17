@@ -107,27 +107,6 @@
       ]
     },
     { 
-      "name": "Twitter++",
-      "bundleIdentifier": "com.apple.compilers.llvm.clang.1_0",
-      "developerName": "UnlimApps",
-      "subtitle": "Get unlimited feature on Twitter",
-      "version": "8.14",
-      "versionDate": "2020-04-15T14:30:00-07:00",
-      "versionDescription": "Sharing Enhancements",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/15?dl=1",
-      "localizedDescription": "Updated to Twitter v8.14 T 1.2r-82\n\n- SaveDM fixed"
-      "iconURL": "https://www.uniquepac.com/images/twitter_icon.png",
-      "tintColor": "00adef",
-      "size": 78910461,
-      "screenshotURLs": [
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
-      ]
-    },
-    { 
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
