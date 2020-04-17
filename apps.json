@@ -75,7 +75,7 @@
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://dl.orangedox.com/PandaApp/20?dl=1",
-      "localizedDescription": "The official YouTube app is a great client but it lacks several key features that most YouTube users want like video downloads, customizable playback quality, no video ads and much more.",
+      "localizedDescription": "Adds new features to YouTube:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
       "tintColor": "FF4500",
       "size": 92194391,
