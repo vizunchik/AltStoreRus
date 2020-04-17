@@ -3,54 +3,30 @@
   "identifier": "com.bmth.city.Demo",
   "apps": [
     {
-      "name": "Spotify++",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "julioverne",
-      "subtitle": "Spotify with free premium.",
-      "version": "8.5.7",
+      "name": "Unfold++",
+      "bundleIdentifier": "com.lightricks.Enlight-Video",
+      "developerName": "syto203",
+      "subtitle": "Unfold — Stories Editor & Collage Maker",
+      "version": "4.12.3",
       "versionDate": "2019-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/12?dl=1",
-      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
-      "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
-      "tintColor": "32CD32",
-      "size": 30445568,
-      "permissions": [
-        {
-          "type": "camera",
-          "usageDescription": "This lets you scan Spotify Codes."
-        },
-        {
-          "type": "photos",
-          "usageDescription": "This lets you save and select images to and from your Photo Library."
-        },
-        {
-          "type": "motion",
-          "usageDescription": "Used to control your tempo for Spotify Running."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you control Spotify using your voice."
-        },
-        {
-          "type": "bluetooth",
-          "usageDescription": "This lets you use Spotify with external accessories."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you set access restrictions using Face ID."
-        }
-      ],
+      "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
+      "downloadURL": "https://dl.orangedox.com/PandaApp/17?dl=1",
+      "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
+      "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
+      "tintColor": "95b5d6",
+      "size": 89312385,
       "screenshotURLs": [
-        "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
-	"https://trashbox.ru/ifiles/1171549_cc26fc_screenshot_00.png-orig/spotify-android-6.jpg",
-	"https://trashbox.ru/ifiles/1171550_7512f4_screenshot_01.png-orig/spotify-android-7.jpg",
-	"https://trashbox.ru/ifiles/1171551_b8bb29_screenshot_02.png-orig/spotify-android-8.jpg",
-	"https://trashbox.ru/ifiles/1171552_c13b7c_screenshot_03.png-orig/spotify-android-9.jpg",
-	"https://trashbox.ru/ifiles/1171553_0d4646_screenshot_04.png-orig/spotify-android-10.jpg"
+        "https://i.imgur.com/W2j590N.png",
+	"https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
+	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
+	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
       ]
     },
-    { 
+    {
       "name": "Instagram++",
       "bundleIdentifier": "com.instagram.apprefresh",
       "developerName": "Rocket",
@@ -128,6 +104,54 @@
       "screenshotURLs": [
         "https://images-na.ssl-images-amazon.com/images/I/71M2LPAJWSL.png",
         "https://pbs.twimg.com/media/Dz8boYtWkAIggb-.jpg"
+      ]
+    },
+    { 
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "julioverne",
+      "subtitle": "Spotify with free premium.",
+      "version": "8.5.7",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://dl.orangedox.com/PandaApp/12?dl=1",
+      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
+      "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
+      "tintColor": "32CD32",
+      "size": 30445568,
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
+        }
+      ],
+      "screenshotURLs": [
+        "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
+	"https://trashbox.ru/ifiles/1171549_cc26fc_screenshot_00.png-orig/spotify-android-6.jpg",
+	"https://trashbox.ru/ifiles/1171550_7512f4_screenshot_01.png-orig/spotify-android-7.jpg",
+	"https://trashbox.ru/ifiles/1171551_b8bb29_screenshot_02.png-orig/spotify-android-8.jpg",
+	"https://trashbox.ru/ifiles/1171552_c13b7c_screenshot_03.png-orig/spotify-android-9.jpg",
+	"https://trashbox.ru/ifiles/1171553_0d4646_screenshot_04.png-orig/spotify-android-10.jpg"
       ]
     },
     { 
@@ -215,30 +239,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/81/4c/5d/814c5d25-32fc-23ae-6b62-459a1f701300/mzl.nbkmiyfl.png/1000x1000bb.png",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/74/cf/c874cf74-fe65-a2f2-d5a9-cedc8c467910/mzl.qfrgjcac.png/1000x1000bb.png",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/36/39/a7363932-72b0-c705-07d5-f62d5836bbab/mzl.rxjexcfj.png/1000x1000bb.png"
-      ]
-    },
-    {
-      "name": "Unfold++",
-      "bundleIdentifier": "com.lightricks.Enlight-Video",
-      "developerName": "syto203",
-      "subtitle": "Unfold — Stories Editor & Collage Maker",
-      "version": "4.12.3",
-      "versionDate": "2019-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/17?dl=1",
-      "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
-      "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
-      "tintColor": "95b5d6",
-      "size": 89312385,
-      "screenshotURLs": [
-        "https://i.imgur.com/W2j590N.png",
-	"https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
-	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
-	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
       ]
     },
     {
