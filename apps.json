@@ -132,12 +132,12 @@
       "name": "Deezer++",
       "bundleIdentifier": "com.deezer.Deezer",
       "developerName": "JulioVerne",
-      "subtitle": "Unlocked all premium features",
+      "subtitle": "Unlocked all premium features!",
       "version": "7.1.1",
       "versionDate": "2020-04-17T14:30:00-07:00",
       "versionDescription": "Warning: uninstall original Deezer app first!",
       "downloadURL": "https://dl.orangedox.com/PandaApp/15?dl=1",
-      "localizedDescription": "Enjoy best-in-class features with the Deezer music player:\n\n • Stream the biggest global hits\n • 56 million songs to discover and enjoy\n • Lean back and find new tracks with Shuffle Mode\n • Get personalized recommendations and explore new music styles with Flow\n • Listen to any playlist you want or create your own\n\n • Add the tracks you love to your music collection in a single tap with Favorites\n • Organise your new music by artist or genre\n • Share your personal playlists and favorite tracks with others\n • Discover podcasts, radio stations, and audio channels\n\n\nWant more? Go limitless with Deezer Premium:\n\n • No ads\n • Offline Mode: download your favorite tracks or podcasts and listen to offline music anywhere\n • Unlimited skips\n • No song shuffling\n • Superior Sound Quality (320 kBps)\n • Music player is compatible with Amazon Alexa and connected devices",
+      "localizedDescription": "Enjoy best-in-class features with the Deezer music player:\n\n • Stream the biggest global hits\n • 56 million songs to discover and enjoy\n • Lean back and find new tracks with Shuffle Mode\n • Get personalized recommendations and explore new music styles with Flow\n • Listen to any playlist you want or create your own\n\n • Add the tracks you love to your music collection in a single tap with Favorites\n • Organise your new music by artist or genre\n • Share your personal playlists and favorite tracks with others\n • Discover podcasts, radio stations, and audio channels\n\nWant more? Go limitless with Deezer Premium:\n\n • No ads\n • Offline Mode: download your favorite tracks or podcasts and listen to offline music anywhere\n • Unlimited skips\n • No song shuffling\n • Superior Sound Quality (320 kBps)\n • Music player is compatible with Amazon Alexa and connected devices",
       "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/14/db/00/14db00c3-c794-0758-484b-5381de266aa8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
       "tintColor": "000000",
       "size": 101205629,
@@ -176,7 +176,7 @@
     { 
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "julioverne",
+      "developerName": "JulioVerne",
       "subtitle": "Spotify with free premium.",
       "version": "8.5.7",
       "versionDate": "2019-06-28T14:30:00-07:00",
@@ -268,7 +268,7 @@
     {
       "name": "Spotify++",
       "bundleIdentifier": "com.apple.spotify2",
-      "developerName": "julioverne",
+      "developerName": "JulioVerne",
       "subtitle": "👇🏻 Read the description 👇🏻",
       "version": "8.5.53",
       "versionDate": "2020-04-18T14:30:00-07:00",
@@ -438,6 +438,16 @@
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "Deezer++ Now Available!",
+      "identifier": "Deezer++-now-available",
+      "caption": "Unlocked all premium features!",
+      "tintColor": "000000",
+      "imageURL": "https://pixel-story.ru/wp-content/uploads/2017/11/deezer.jpg",
+      "appID": "com.deezer.Deezer",
+      "date": "2020-04-17",
       "notify": false
     },
     {
