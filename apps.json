@@ -59,7 +59,7 @@
       "tintColor": "FF4500",
       "size": 92194391,
       "screenshotURLs": [
-        "https://static.appdb.to/images/cydia-1900000161-iphone-0.png",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
 	"https://static.appdb.to/images/cydia-1900000161-iphone-1.png",
 	"https://static.appdb.to/images/cydia-1900000161-iphone-2.png",
 	"https://static.appdb.to/images/cydia-1900000161-iphone-3.png"
@@ -113,7 +113,7 @@
       "subtitle": "Get unlimited feature on Twitter",
       "version": "8.14",
       "versionDate": "2020-04-15T14:30:00-07:00",
-      "versionDescription": "Sharing Enhancements\n• Share Links - Share links from tweets by long pressing on them to bring up the iOS share screen\n• Share Images - Share images from tweets by long pressing on them to bring up the iOS share screen\n• Tweets Sharing - Allows you to directly share the tweet outside of Twitter (long press in timeline or 3 dots).\n• GIF and Vine Share/Save - Allows you to save locally or share GIFS and Vines effectively. Access by long clicking on the GIF when it is fully open (the display view)\n• Image/Video Share/Save - Allows you to save locally or share images and videos. Access by long clicking on the Image or Video either in the timeline or the display view (when it is fully open)\n• Direct Message Share - Allows you to share messages from a direct message through the iOS share sheet.\n\nApp Integrations\n• Direct Download Youtube Videos - Download youtube videos from twitter to your phone.\n• Youtube Integration - Set Youtube links to open in Youtube app or with the Twitter built in player.\n• Instagram Links - Set Instagram links to open in Instagram app or with the Twitter built in media service.\n• Browser Integration - Set if you want links to be opened in Twitter default browser or other browser on your phone (Supported Browsers: Chrome, Opera, Dolphin, Atomic, iCab, Puffin).\n\nAdditional Enhancements\n• Image/Video Download - Download images and videos to your device to watch later.\n• Show Keyboard on Compose - Instead of being shown the media screen, have the keyboard show up on compose.\n• Automatic Long Tweet Creation - For tweets that are over 140 Chars, Twitter ++ allows you to automatically post tweet as an image or using pastebin.\n• Easier List Access - Finally start using lists to organize Twitter! List button added to the main feed back for easy access.\n• Confirm Favorite - Bring up confirmation screen when favoriting a tweet.\n• Hide Follow in Tweet - Remove the follow button on tweets.\n• Remove Status Bar - Enable full screen view for twitter by hiding the top status bar.\n• Timeline Badges - In the timeline, show verified badges for users.\n• View Blocked Profiles - Continue seeing tweets and profiles of users how have blocked you.",
+      "versionDescription": "Sharing Enhancements",
       "downloadURL": "https://dl.orangedox.com/PandaApp/15?dl=1",
       "localizedDescription": "Updated to Twitter v8.14 T 1.2r-82\n\n- SaveDM fixed"
       "iconURL": "https://www.uniquepac.com/images/twitter_icon.png",
