@@ -129,6 +129,33 @@
       ]
     },
     { 
+      "beta": false,
+      "bundleIdentifier": "com.deezer.Deezer",
+      "developerName": "JulioVerne",
+      "downloadURL": "https://dl.orangedox.com/PandaApp/15?dl=1",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/14/db/00/14db00c3-c794-0758-484b-5381de266aa8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+      "localizedDescription": "Enjoy best-in-class features with the Deezer music player:\n\n • Stream the biggest global hits\n • 56 million songs to discover and enjoy\n • Lean back and find new tracks with Shuffle Mode\n • Get personalized recommendations and explore new music styles with Flow\n • Listen to any playlist you want or create your own\n\n • Add the tracks you love to your music collection in a single tap with Favorites\n • Organise your new music by artist or genre\n • Share your personal playlists and favorite tracks with others\n • Discover podcasts, radio stations, and audio channels\n\n\nWant more? Go limitless with Deezer Premium:\n\n • No ads\n • Offline Mode: download your favorite tracks or podcasts and listen to offline music anywhere\n • Unlimited skips\n • No song shuffling\n • Superior Sound Quality (320 kBps)\n • Music player is compatible with Amazon Alexa and connected devices",
+      "name": "Deezer++",
+      "screenshotURLs": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/49/6f/fa496f97-69ab-32b7-be59-fc6f17f19f4f/pr_source.jpg/1000x1000bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/10/ef/ef10efe8-bb53-8a9b-ddab-c0dca42dbf04/pr_source.jpg/1000x1000bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b6/ee/4c/b6ee4c8f-b281-0f46-2497-b6c1456e8c8c/pr_source.jpg/1000x1000bb.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/29/bd/7b29bd0e-ec6a-17d7-0011-c8d3cd9fd179/pr_source.jpg/1000x1000bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/45/51/c8455113-d610-e9ba-fae5-7857c13a1eb9/pr_source.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/71/78/2e7178c5-7cca-078f-01f4-96bbfa0977a5/pr_source.png/1000x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/9e/2c/829e2c2b-3bf3-48e9-dec8-471380fd861c/pr_source.jpg/1000x1000bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/37/75/27/37752773-3283-6759-107c-1549e96e0dde/pr_source.png/1000x1000bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/24/8c/e7248cb2-58fb-e69d-4175-b38542e0e600/pr_source.jpg/1000x1000bb.jpg"
+      ],
+      "size": 101205629,
+      "subtitle": "Unlocked all premium features",
+      "tintColor": "000000",
+      "version": "7.1.1",
+      "versionDate": "2020-04-17T14:00:00-07:00",
+      "versionDescription": "Warning: uninstall original Deezer app first!"
+      ]
+    },
+    { 
        "name": "Channels",
        "bundleIdentifier": "com.channelsapp.channels",
        "developerName": "@afsimsir",
