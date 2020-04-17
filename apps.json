@@ -129,6 +129,26 @@
       ]
     },
     { 
+       "name": "Channels",
+       "bundleIdentifier": "com.channelsapp.channels",
+       "developerName": "@afsimsir",
+       "subtitle": "Watch live TV & events for free with Channels",
+       "version": "1.8.0",
+       "versionDate": "2020-03-24T00:00:00-00:00",
+       "versionDescription": "• Completely redesigned Events tab\n• Most streams will open in the default iOS player instead of in the browser\n• 'Open in VLC' support (VLC app has Chromecast)\n• Reduced app size by 85%! (168 MB -> 22 MB)\n• Smoother loading experience\n• Cleanup and bugfixes",
+       "downloadURL": "https://firebasestorage.googleapis.com/v0/b/channels-3c68e.appspot.com/o/channels_beta.ipa?alt=media&token=b73a06cb-5aa9-41da-8abf-f200cfaafd99",
+       "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
+       "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
+       "tintColor": "0093E9",
+       "size": 22000000,
+       "screenshotURLs": [
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
+      ]
+    },
+    { 
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "julioverne",
@@ -394,6 +414,16 @@
       "appID": "com.google.ios.youtube",
       "date": "2020-03-24",
       "notify": false
+    },
+    {
+       "title": "Channels now available on AltStore!",
+       "identifier": "channels-x-altstore",
+       "caption": "Live TV you're used to, better.",
+       "tintColor": "0093E9",
+       "imageURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
+       "appID": "com.channelsapp.channels",
+       "date": "2020-03-25",
+       "notify": true
     },
     {
       "title": "VK — social network",
