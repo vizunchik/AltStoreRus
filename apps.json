@@ -410,20 +410,10 @@
   ],
   "news": [
     {
-      "title": "Everything works, download now!",
-      "identifier": "Panda++-available-now",
-      "caption": "The problem is solved and all IPAS are working. More apps coming soon by [Panda App Ru++]",
-      "tintColor": "29303a",
-      "imageURL": "https://www.defensivedriving.com/wp-content/uploads/2018/11/available_now_blog11272018-png.png",
-      "appID": "com.bmth.city.Demo",
-      "date": "2020-04-17",
-      "notify": false
-    },
-    {
       "title": "The last fully working version is 8.5.7",
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
-      "tintColor": "000400",
+      "tintColor": "29303a",
       "imageURL": "https://techlacarte.com/wp-content/uploads/2019/07/Get-Spotify-Premium-for-Free.jpg",
       "appID": "com.spotify.client",
       "date": "2020-04-13",
