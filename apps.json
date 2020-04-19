@@ -70,22 +70,39 @@
       "name": "YouTube++",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Cercube 5",
-      "subtitle": "YouTube 15.08.4 | Cercube 5.1.9",
-      "version": "15.08.4",
-      "versionDate": "2019-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/20?dl=1",
+      "subtitle": "YouTube 15.13.3 | Cercube 5.1.15",
+      "version": "15.13.3",
+      "versionDate": "2020-04-18T14:30:00-07:00",
+      "versionDescription": "📹 Updated to YouTube 15.13.3 | Cercube 5.1.15\n\n• Bug fixes, stability improvements, repairs to time-space continuum, etc. etc.\n• Fixed tweak \n\n— Panda App 🐼",
+      "downloadURL": "https://dl.orangedox.com/PandaApp5/1?dl=1",
       "localizedDescription": "Adds new features to YouTube:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
       "tintColor": "FF4500",
-      "size": 92194391,
+      "size": 94736120,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "This lets you upload videos you've already created."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you include audio with your videos and search using your voice."
+        },
+        {
+          "type": "location",
+          "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+        }
+      ],
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/74/03/b8740367-2dcf-6a0c-d738-be91b34281ab/mzl.ksabbijd.png/1000x1000bb.png",
 	"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/0d/36/c20d36a4-c4f2-a27d-012d-fceeddea392b/mzl.wqtsgyvi.png/1000x1000bb.png",
 	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/28/ed/c328ed06-2f1f-3380-1665-68c921553d4c/mzl.ehrowzdv.png/1000x1000bb.png",
 	"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/17/78c517e1-21a9-40a6-1163-0dd919136c54/mzl.loxwfgsa.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8f/8e/a28f8eaf-a227-3215-5c36-fa8976772c30/mzl.xeupxvot.png/1000x1000bb.png"
-      ]
+	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8f/8e/a28f8eaf-a227-3215-5c36-fa8976772c30/mzl.xeupxvot.png/1000x1000bb.png"      ]
     },
     {
       "name": "VK++",
@@ -161,11 +178,11 @@
        "version": "1.8.0",
        "versionDate": "2020-03-24T00:00:00-00:00",
        "versionDescription": "• Completely redesigned Events tab\n• Most streams will open in the default iOS player instead of in the browser\n• 'Open in VLC' support (VLC app has Chromecast)\n• Reduced app size by 85%! (168 MB -> 22 MB)\n• Smoother loading experience\n• Cleanup and bugfixes",
-       "downloadURL": "https://dl.orangedox.com/PandaApp4/1?dl=1",
+       "downloadURL": "https://dl.orangedox.com/PandaApp5/2?dl=1",
        "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
        "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
        "tintColor": "0093E9",
-       "size": 22000000,
+       "size": 9090644,
        "screenshotURLs": [
                 "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
                 "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
@@ -271,7 +288,7 @@
       "developerName": "JulioVerne",
       "subtitle": "👇🏻 Read the description 👇🏻",
       "version": "8.5.53",
-      "versionDate": "2020-04-19T05:30:00-07:00",
+      "versionDate": "2020-04-19T07:30:00-07:00",
       "versionDescription": "- Fixed stability issues.",
       "downloadURL": "https://dl.orangedox.com/srusj6jstvis?dl=1",
       "localizedDescription": "When you try to play an album, you cannot select individual songs to play. You can only choose shuffle play. \n\nThe last fully working version is 8.5.7. Which you can download below.",
@@ -377,11 +394,11 @@
       "version": "1.0",
       "versionDate": "2020-04-03T12:00:00-00:00",
       "versionDescription": "Initial AltStore release!",
-      "downloadURL": "https://dl.orangedox.com/PandaApp4/4?dl=1",
+      "downloadURL": "https://dl.orangedox.com/PandaApp5/5?dl=1",
       "localizedDescription": "Clean your phone, quick and easy!\n\nApple doesn't allow cache cleaning apps, or memory boost apps, but you can have both features now, thanks to the power of AltStore.\n\nFirst, Memory Boost will reclaim some of the memory being used by apps in the background, which makes your phone more responsive.\n\nSecond, Storage Boost will reclaim some of the space being used by temporary (or cached) files of apps, which gives you more room for photos and other things!",
       "iconURL": "https://appybois.com/altstore/powerphoneclean.jpg",
       "tintColor": "#27ae60",
-      "size": 7924507,
+      "size": 7866837,
       "screenshotURLs": [
         "https://appybois.com/altstore/screenshots/SS1.png",
         "https://appybois.com/altstore/screenshots/SS2.png",
