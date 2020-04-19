@@ -510,8 +510,8 @@
       "title": "Twitter++ Now Available!",
       "identifier": "Twitter++-now-available",
       "caption": "Get unlimited feature on Twitter",
-      "tintColor": "199ef4",
-      "imageURL": "https://cdn-images-1.medium.com/fit/t/1600/480/1*Jz_bCr3c9ztoX-btIefAxg.gif",
+      "tintColor": "00adef",
+      "imageURL": "https://www.xda-developers.com/files/2017/10/twitter.png",
       "appID": "com.atebits.Tweetie2",
       "date": "2020-04-17",
       "notify": false
