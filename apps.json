@@ -30,7 +30,7 @@
       "name": "Instagram++",
       "bundleIdentifier": "com.instagram.apprefresh",
       "developerName": "Rocket",
-      "subtitle": "Instagram + Rocket 123 | 3.6.8 | RU | NoAds",
+      "subtitle": "Instagram + Rocket 123 | 3.6.8 | NoAds",
       "version": "123.0",
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
@@ -449,7 +449,7 @@
     {
       "title": "Instagram++\nnow on AltStore!",
       "identifier": "Instagram++-available-now",
-      "caption": "Rocket for Instagram | RU | NoAds.",
+      "caption": "Rocket for Instagram | NoAds.",
       "tintColor": "4759a7",
       "imageURL": "https://www.mobiluygulama.com/wp-content/uploads/Join-Chat-Sticker.jpg",
       "appID": "com.instagram.apprefresh",
