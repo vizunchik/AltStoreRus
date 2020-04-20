@@ -447,9 +447,9 @@
       "notify": false
     },
     {
-      "title": "Instagram++\nnow on AltStore!",
+      "title": "Rocket for Instagram",
       "identifier": "Instagram++-available-now",
-      "caption": "Rocket for Instagram | NoAds.",
+      "caption": "All-in-one tweak for Instagram app users and NoAds!",
       "tintColor": "b500d6",
       "imageURL": "https://greepx.com/wp-content/uploads/2019/11/1573938237_665_instagram-wallpapers.png",
       "appID": "com.instagram.apprefresh",
@@ -459,7 +459,7 @@
     {
       "title": "Cercube 5 for YouTube",
       "identifier": "YouTube++-available-now",
-      "caption": "Videos, Music and Live Streams!",
+      "caption": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
       "tintColor": "FF4500",
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
