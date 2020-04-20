@@ -29,8 +29,8 @@
     {
       "name": "Instagram++",
       "bundleIdentifier": "com.instagram.apprefresh",
-      "developerName": "Rocket",
-      "subtitle": "Instagram + Rocket 123 | 3.6.8 | NoAds",
+      "developerName": "Rocket Team",
+      "subtitle": "Instagram 123.0 | Rocket 3.6.8 | NoAds",
       "version": "123.0",
       "versionDate": "2019-06-28T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
@@ -69,7 +69,7 @@
     { 
       "name": "YouTube++",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Cercube 5",
+      "developerName": "Cercube Team",
       "subtitle": "YouTube 15.15.1 | Cercube 5.1.17",
       "version": "15.15.1",
       "versionDate": "2020-04-19T14:30:00-07:00",
