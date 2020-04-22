@@ -464,8 +464,8 @@
       "tintColor": "FF4500",
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
-      "date": "2020-04-18",
-      "notify": false
+      "date": "2020-04-17",
+      "beta": false
     },
     {
       "title": "Deezer++ Now Available!",
