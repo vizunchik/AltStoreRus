@@ -79,7 +79,6 @@
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
       "tintColor": "FF4500",
       "size": 91936890,
-      "update": true,
       "permissions": [
         {
           "type": "photos",
@@ -464,8 +463,8 @@
       "tintColor": "FF4500",
       "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
       "appID": "com.google.ios.youtube",
-      "date": "2020-04-17",
-      "beta": false
+      "date": "2020-04-12",
+      "notify": false
     },
     {
       "title": "Deezer++ Now Available!",
